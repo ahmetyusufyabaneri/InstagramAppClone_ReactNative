@@ -1,6 +1,6 @@
 <h1>Instagram Clone App</h1>
 
-<p>intsagram app</p>
+<p>This project is a clone of Instagram, a social media application developed with React Native. The application consists of a home page and a profile page. Users can view posts shared by other users on the home page. At the same time they view their own posts, posts and information on the profile page.</p>
 
 <h2>Used Technologies</h2>
 
